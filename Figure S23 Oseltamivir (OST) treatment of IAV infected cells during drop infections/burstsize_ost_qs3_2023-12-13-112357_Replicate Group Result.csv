@@ -1,0 +1,37 @@
+# File Name: /Volumes/SHARED/Mallory/data/2023/12-23/IAV_burstsize_12-11-23/burstsize_ost_qs3_2023-12-13-112357_Copy.eds
+# Comment: 
+# Operator: DEFAULT
+# Barcode: 
+# Instrument Type: QuantStudio™ 3 System
+# Block Type: 96-Well 0.2-mL Block
+# Instrument Name: 272321126
+# Instrument Serial Number: 272321126
+# Heated Cover Serial Number:
+# Block Serial Number: 33160298
+# Run Start Date/Time: 2023-12-13 11:54:12 AM CST
+# Run End Date/Time: 2023-12-13 01:49:43 PM CST
+# Run Duration: 115 minutes 30 seconds
+# Sample Volume: 25.0
+# Cover Temperature: 105.0
+# Passive Reference: ROX
+# PCR Stage/Step Number: Stage 2 Step 2
+# Quantification Cycle Method: CT
+# Analysis Date/Time: 2023-12-14 11:36:34 AM CST
+# Software Name and Version: Design & Analysis Software v2.6.0
+# Plugin Name and Version: Primary Analysis v1.7.0, Standard Curve v1.6.0
+# Exported On: 2024-03-13 11:36:13 AM CDT
+"Sample","Target","Number of Replicates","Quantity","Number of Cqs","Cq Mean","Cq SD","Cq SE","Biogroup"
+"+ost 0 hpi","Target 1","3","-","0","","","",
+"+ost 24 hpi","Target 1","3","-","0","37.96160241339848","","",
+"- ost 0 hpi","Target 1","3","-","0","37.12938101304161","0.21976366004145345","0.15539637427368683",
+"- ost 24 hpi","Target 1","3","-","0","27.772354572017367","0.1692444865225928","0.09771334985267895",
+"-H1-OST 24 hpi","Target 1","3","-","0","","","",
+"m gene 10^1","Target 1","1","60.0","0","34.08720809186812","","",
+"m gene 10^2","Target 1","1","608.0","0","29.407429883908556","","",
+"m gene 10^3","Target 1","1","6083.0","0","25.48203598519939","","",
+"m gene 10^4","Target 1","1","60830.0","0","21.490860482871916","","",
+"m gene 10^5","Target 1","1","608300.0","0","18.53375939632496","","",
+"m gene 10^6","Target 1","1","6083000.0","0","14.963383671583308","","",
+"m gene 10^7","Target 1","1","6.083E7","0","10.62458866392474","","",
+"m gene 10^8","Target 1","1","6.083E8","0","6.814924621711002","","",
+"water","Target 1","2","-","0","38.439206958131514","","",

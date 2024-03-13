@@ -1,0 +1,48 @@
+# File Name: /Volumes/SHARED/Mallory/data/2023/12-23/IAV_burstsize_12-11-23/burstsize_ost_qs3_2023-12-13-112357_Copy.eds
+# Comment: 
+# Operator: DEFAULT
+# Barcode: 
+# Instrument Type: QuantStudio™ 3 System
+# Block Type: 96-Well 0.2-mL Block
+# Instrument Name: 272321126
+# Instrument Serial Number: 272321126
+# Heated Cover Serial Number:
+# Block Serial Number: 33160298
+# Run Start Date/Time: 2023-12-13 11:54:12 AM CST
+# Run End Date/Time: 2023-12-13 01:49:43 PM CST
+# Run Duration: 115 minutes 30 seconds
+# Sample Volume: 25.0
+# Cover Temperature: 105.0
+# Passive Reference: ROX
+# PCR Stage/Step Number: Stage 2 Step 2
+# Quantification Cycle Method: CT
+# Analysis Date/Time: 2023-12-14 11:36:34 AM CST
+# Software Name and Version: Design & Analysis Software v2.6.0
+# Plugin Name and Version: Primary Analysis v1.7.0, Standard Curve v1.6.0
+# Exported On: 2024-03-13 11:36:12 AM CDT
+"Well","Well Position","Omit","Sample","Target","Task","Reporter","Quencher","Amp Status","Amp Score","Curve Quality","Result Quality Issues","Cq","Cq Confidence","Cq Mean","Cq SD","Auto Threshold","Threshold","Auto Baseline","Baseline Start","Baseline End"
+"1","A1","false","m gene 10^8","Target 1","STANDARD","FAM","None","Amp","1.4004053702451187","","","6.814924621711002","0.9175460233949165","6.814924621711002","","true","0.08291572549849649","true","3","4"
+"2","A2","false","+ost 0 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.4833407549939592","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","36"
+"3","A3","false","- ost 0 hpi","Target 1","UNKNOWN","FAM","None","Amp","1.018581369319778","","","36.97398463876765","0.9725333809504308","37.12938101304161","0.21976366004145345","true","0.08291572549849649","true","3","32"
+"4","A4","false","-H1-OST 24 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.0","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","39"
+"13","B1","false","m gene 10^7","Target 1","STANDARD","FAM","None","Amp","1.4006854818640528","","","10.62458866392474","0.9812731302829276","10.62458866392474","","true","0.08291572549849649","true","3","7"
+"14","B2","false","+ost 0 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.21685563743397124","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","39"
+"15","B3","false","- ost 0 hpi","Target 1","UNKNOWN","FAM","None","Amp","0.9788981279894567","","","37.28477738731557","0.9523996311128632","37.12938101304161","0.21976366004145345","true","0.08291572549849649","true","3","33"
+"16","B4","false","-H1-OST 24 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.0","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","39"
+"25","C1","false","m gene 10^6","Target 1","STANDARD","FAM","None","Amp","1.4008541172683637","","","14.963383671583308","0.989959335954289","14.963383671583308","","true","0.08291572549849649","true","3","11"
+"26","C2","false","+ost 0 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.5491076970798228","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","36"
+"27","C3","false","- ost 0 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.42885948868546103","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","36"
+"28","C4","false","-H1-OST 24 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.0","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","39"
+"37","D1","false","m gene 10^5","Target 1","STANDARD","FAM","None","Amp","1.4010236528624427","","","18.53375939632496","0.9883524997639891","18.53375939632496","","true","0.08291572549849649","true","3","14"
+"38","D2","false","+ost 24 hpi","Target 1","UNKNOWN","FAM","None","Amp","0.7983711861073076","","","37.96160241339848","0.7952281809080113","37.96160241339848","","true","0.08291572549849649","true","3","32"
+"39","D3","false","- ost 24 hpi","Target 1","UNKNOWN","FAM","None","Amp","1.2683804350070274","","","27.94784499283896","0.8068315221793553","27.772354572017367","0.1692444865225928","true","0.08291572549849649","true","3","23"
+"49","E1","false","m gene 10^4","Target 1","STANDARD","FAM","None","Amp","1.4012708001255234","","","21.490860482871916","0.9927130596244336","21.490860482871916","","true","0.08291572549849649","true","3","17"
+"50","E2","false","+ost 24 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.6964807559693491","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","34"
+"51","E3","false","- ost 24 hpi","Target 1","UNKNOWN","FAM","None","Amp","1.28291056189619","","","27.75908103654674","0.7874008169116363","27.772354572017367","0.1692444865225928","true","0.08291572549849649","true","3","22"
+"61","F1","false","m gene 10^3","Target 1","STANDARD","FAM","None","Amp","1.397142854021762","","","25.48203598519939","0.9891635458129858","25.48203598519939","","true","0.08291572549849649","true","3","21"
+"62","F2","false","+ost 24 hpi","Target 1","UNKNOWN","FAM","None","No Amp","0.0","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","39"
+"63","F3","false","- ost 24 hpi","Target 1","UNKNOWN","FAM","None","Amp","1.2857225493935505","","","27.610137686666405","0.8379017832744771","27.772354572017367","0.1692444865225928","true","0.08291572549849649","true","3","22"
+"73","G1","false","m gene 10^2","Target 1","STANDARD","FAM","None","Amp","1.3998055878215672","","","29.407429883908556","0.989885503978741","29.407429883908556","","true","0.08291572549849649","true","3","25"
+"85","H1","false","m gene 10^1","Target 1","STANDARD","FAM","None","Amp","1.3227143126517094","","","34.08720809186812","0.9645994276510748","34.08720809186812","","true","0.08291572549849649","true","3","30"
+"86","H2","false","water","Target 1","UNKNOWN","FAM","None","No Amp","0.0","","","Undetermined","0.0","","","true","0.08291572549849649","true","3","39"
+"87","H3","false","water","Target 1","UNKNOWN","FAM","None","Inconclusive","0.8976245403068105","","","38.439206958131514","0.6886505026312966","38.439206958131514","","true","0.08291572549849649","true","3","34"
